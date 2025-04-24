@@ -1,8 +1,7 @@
 # QualisMcp
 
 ## Qualis
-[Qualis](https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/veiculoPublicacaoQualis/listaConsultaGeralPeriodicos.jsf), also known as Qualis-Periódicos or Qualis/CAPES, is a Brazilian system for evaluating academic journals, maintained by the Coordination for the Improvement of Higher Education Personnel (CAPES). It classifies and ranks the publication vehicles used for disseminating the intellectual output of postgraduate programs of the "stricto sensu" type (master's and doctoral degrees) based on their circulation scope (local, national, or international) and quality (A, B, C), according to the evaluation area.  
-The Qualis values for Scientific Events are updated according to the 2017-2020 Quadrennial.
+[Qualis](https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/veiculoPublicacaoQualis/listaConsultaGeralPeriodicos.jsf), also known as Qualis-Periódicos or Qualis/CAPES, is a Brazilian system for evaluating academic journals, maintained by the Coordination for the Improvement of Higher Education Personnel (CAPES). It classifies and ranks the publication vehicles used for disseminating the intellectual output of postgraduate programs of the "stricto sensu" type (master's and doctoral degrees) based on their circulation scope (local, national, or international) and quality (A, B, C), according to the evaluation area. The Qualis values for Scientific Events are updated according to the 2017-2020 Quadrennial.
 
 ## Model Context Protocol (MCP)
 Model Context Protocol (MCP) is a framework designed to facilitate communication between distributed systems by defining a standardized protocol for exchanging structured data. It enables seamless interaction between clients and servers, focusing on simplicity, scalability, and flexibility. MCP is particularly useful in scenarios where systems need to share complex data models while maintaining a clear and consistent context.
