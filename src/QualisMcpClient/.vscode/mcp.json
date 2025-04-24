@@ -1,0 +1,14 @@
+{
+    "inputs": [],
+    "servers": {
+        "QualisMcpServer": {
+            "command": "docker",
+            "args": [
+                "run",
+                "-i",
+                "--rm",
+                "yanlimaj/qualismcp"
+            ]
+        }
+    }
+}
