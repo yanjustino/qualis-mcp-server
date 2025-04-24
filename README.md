@@ -1,11 +1,13 @@
 # QualisMcp
 
-## Introduction to Model Context Protocol (MCP)
+## Qualis
+O [Qualis](https://sucupira-legado.capes.gov.br/sucupira/public/consultas/coleta/veiculoPublicacaoQualis/listaConsultaGeralPeriodicos.jsf), Qualis-Periódicos ou Qualis/CAPES, é um sistema brasileiro de avaliação de periódicos, mantido pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior (CAPES), que relaciona e classifica os veículos utilizados para a divulgação da produção intelectual dos programas de pós-graduação do tipo "stricto sensu" (mestrado e doutorado), quanto ao âmbito da circulação (local, nacional ou internacional) e à qualidade (A, B, C), por área de avaliação.
+Os valores do Qualis para os Eventos Científicos estão atualizados conforme a Quadrienal 2017-2020. 
 
+## Model Context Protocol (MCP)
 Model Context Protocol (MCP) is a framework designed to facilitate communication between distributed systems by defining a standardized protocol for exchanging structured data. It enables seamless interaction between clients and servers, focusing on simplicity, scalability, and flexibility. MCP is particularly useful in scenarios where systems need to share complex data models while maintaining a clear and consistent context.
 
 ## Overview
-
 By leveraging MCP, the `QualisMcp` project ensures efficient data exchange and robust communication between its server and client components, enabling accurate retrieval and management of event classifications. For more details, visit the [official MCP documentation](https://modelcontextprotocol.io/introduction).
 
 ## Features
