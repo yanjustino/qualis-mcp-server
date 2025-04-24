@@ -3,7 +3,7 @@ namespace QualisMcpServer;
 [McpServerToolType]
 public static class QualisTool
 {
-    [McpServerTool, Description("returns the classification of events for 2017-2020 - computer science")]
+    [McpServerTool, Description("Returns the classification of events for 2017-2020 - computer science")]
     public static string About() =>
         """
         CLASSIFICATION OF EVENTS FOR 2017-2020 – COMPUTER SCIENCE
@@ -14,6 +14,6 @@ public static class QualisTool
         (A, B, C), by area of evaluation.
         """;
 
-    [McpServerTool, Description("get the classification of events for 2017-2020 - computer science")]
-    public static string Qualis(string value) => ToolsDataSet.Content;
+    [McpServerTool, Description("Get the classification of events for 2017-2020 - computer science")]
+    public static string Qualis(string sigla) => ToolsDataSet.Content;
 }
