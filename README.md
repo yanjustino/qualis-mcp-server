@@ -1,8 +1,12 @@
 # QualisMcp
 
+## Introduction to Model Context Protocol (MCP)
+
+Model Context Protocol (MCP) is a framework designed to facilitate communication between distributed systems by defining a standardized protocol for exchanging structured data. It enables seamless interaction between clients and servers, focusing on simplicity, scalability, and flexibility. MCP is particularly useful in scenarios where systems need to share complex data models while maintaining a clear and consistent context.
+
 ## Overview
 
-QualisMcp is a C# project designed to provide tools for retrieving and managing event classifications for the years 2017-2020 in the field of Computer Science. It includes a server (`QualisMcpServer`) and a client (`QualisMcpClient`) that interact to process and retrieve classification data.
+By leveraging MCP, the `QualisMcp` project ensures efficient data exchange and robust communication between its server and client components, enabling accurate retrieval and management of event classifications. For more details, visit the [official MCP documentation](https://modelcontextprotocol.io/introduction).
 
 ## Features
 
