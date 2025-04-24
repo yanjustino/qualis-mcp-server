@@ -6,7 +6,6 @@
         <ImplicitUsings>enable</ImplicitUsings>
         <Nullable>enable</Nullable>
         <InvariantGlobalization>true</InvariantGlobalization>
-        <DockerDefaultTargetOS>Linux</DockerDefaultTargetOS>
         <EnableSdkContainerSupport>true</EnableSdkContainerSupport>
         <ContainerRepository>yanlimaj/qualismcp</ContainerRepository>
         <ContainerFamily>alpine</ContainerFamily>
