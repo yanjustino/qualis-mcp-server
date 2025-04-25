@@ -8,6 +8,7 @@ builder.Logging
 
 builder.Services
     .AddMcpServer()
+    //.WithStreamServerTransport()
     .WithStdioServerTransport()
     .WithToolsFromAssembly();
 

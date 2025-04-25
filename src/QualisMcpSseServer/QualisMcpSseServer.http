@@ -1,0 +1,3 @@
+@QualisMcpSseServer_HostAddress = http://localhost:5297
+
+GET {{QualisMcpSseServer_HostAddress}}/sse

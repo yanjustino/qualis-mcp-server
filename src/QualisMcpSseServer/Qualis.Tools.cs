@@ -1,7 +1,10 @@
-namespace QualisMcpServer;
+using System.ComponentModel;
+using ModelContextProtocol.Server;
+
+namespace QualisMcpSseServer;
 
 [McpServerToolType]
-public static class QualisTool
+public class QualisTool
 {
     [McpServerTool, Description("Informations about dataset")]
     public static string About() => Dataset.About;

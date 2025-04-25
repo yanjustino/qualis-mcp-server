@@ -1,0 +1,9 @@
+{
+  "servers": {
+    "laurent-mcp-server": {
+      "type": "sse",
+      "url": "http://localhost:5297/sse",
+      "env": {}
+    }
+  }
+}
