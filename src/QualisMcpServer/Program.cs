@@ -1,4 +1,6 @@
-﻿var builder = Host.CreateApplicationBuilder(args);
+﻿
+
+var builder = Host.CreateApplicationBuilder(args);
 
 builder.Logging
     .AddConsole(consoleLogOptions => 
